@@ -1,5 +1,5 @@
 # ASCII-Video-Player
-A command line based program that converts your video into an ASCII animtation.
+A command line based program that converts your video into an ASCII animation.
 
 https://www.youtube.com/watch?v=6MNvO284pKY
 
