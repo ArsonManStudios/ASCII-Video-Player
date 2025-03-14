@@ -1,5 +1,6 @@
 # ASCII-Video-Player
 A command line based program that converts your video into an ASCII animtation.
+https://www.youtube.com/watch?v=6MNvO284pKY
 
 ## Prerequisites
 Must have python installed (with pip) to be able to run the python code. Python can be installed on the official python website(https://www.python.org/). Afterwards, install these modules by running this on the command line:
